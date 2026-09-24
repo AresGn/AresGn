@@ -7,7 +7,7 @@
 *Building the digital infrastructure that Africa truly needs.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aresgn.sinda.pro-1A3D6E?style=for-the-badge)](https://aresgn.sinda.pro)
-[![SINDA](https://img.shields.io/badge/SINDA-sinda.pro-2E7D5E?style=for-the-badge)](https://www.sinda.pro/)
+[![SINDA](https://img.shields.io/badge/SINDA-sinda.pro-2E7D5E?style=for-the-badge)](https://www.sinda.pro)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arès%20Gnimagnon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://bj.linkedin.com/in/ar%C3%A8s-gnimagnon-a239353b8/)
 
 </div>
@@ -56,8 +56,11 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AresGn&theme=radical" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AresGn&theme=radical" alt="Top languages" />
+  <img src="https://github-stats-extended-backend-yg4c.vercel.app/api?username=AresGn&theme=radical&show_icons=true&include_all_commits=true&show=prs_authored,prs_merged,prs_merged_percentage" alt="GitHub stats: commits and pull requests" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended-backend-yg4c.vercel.app/api/top-langs/?username=AresGn&layout=compact&theme=radical&hide=HTML" alt="Top languages, excluding HTML" />
 </p>
 
 <p align="center">
