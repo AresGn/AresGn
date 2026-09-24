@@ -56,11 +56,15 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="./profile-summary-card-output/default/0-profile-details.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AresGn&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
 </p>
+
 <p align="center">
-  <img height="180" src="./profile-summary-card-output/default/3-stats.svg" />
-  <img height="180" src="./profile-summary-card-output/default/2-most-commit-language.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AresGn&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AresGn&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
 ### 🌐 Languages
