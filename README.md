@@ -34,9 +34,9 @@
 
 | Project | What it is | My role | Stack |
 |---|---|---|---|
-| **[StageConnect](https://www.stageconnect.app/)** | Internship management SaaS for universities and companies | Idea, architecture, entire frontend, security, 1,100+ tests | Next.js · FastAPI · Supabase · Redis |
-| **[OrientBot](https://orientbot.sinda.pro/)** | AI guidance advisor for Beninese high school graduates | Idea, MVP, architecture, AI & payment integrations | Next.js · Supabase · OpenRouter · Kkiapay |
-| **[BudgetVox](https://budgetvox-app.sinda.pro/)** | Voice-first budgeting app with an AI correction loop (beta soon) | Designed and built solo | Flutter · FastAPI · Supabase · Deepgram |
+| **[StageConnect](https://www.stageconnect.app/)** | Internship management SaaS for universities and companies | Idea, architecture, entire frontend, security, 1,100+ tests | Next.js · FastAPI |
+| **[OrientBot](https://orientbot.sinda.pro/)** | AI guidance advisor for Beninese high school graduates | Idea, MVP, architecture, AI & payment integrations | Next.js · Supabase · OpenRouter |
+| **BudgetVox** | Voice-first budgeting app with an AI correction loop (beta soon) | Designed and built solo | Flutter · FastAPI · Supabase · Deepgram |
 | **SchooLine** | Multi-school management platform (M&T Tech) | Lead developer, built solo in 3 months, 622+ tests | NestJS · Next.js · PostgreSQL (RLS) · Redis |
 | **[Safre Académie](https://www.safre-academie.com/)** | E-learning platform, 250+ users (freelance) | Architecture, backend, secure video streaming | Next.js · Express · Supabase · FedaPay |
 | **M&T Tours** | Tour booking platform for a South African client (M&T Tech) | Entire frontend, 5 languages | React · Inertia.js · Laravel |
@@ -56,8 +56,11 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AresGn&show_icons=true&count_private=true&hide_border=true&title_color=1A3D6E&icon_color=2E7D5E" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AresGn&layout=compact&langs_count=8&hide_border=true&title_color=1A3D6E" />
+  <img src="./profile-summary-card-output/default/0-profile-details.svg" />
+</p>
+<p align="center">
+  <img height="180" src="./profile-summary-card-output/default/3-stats.svg" />
+  <img height="180" src="./profile-summary-card-output/default/2-most-commit-language.svg" />
 </p>
 
 ### 🌐 Languages
