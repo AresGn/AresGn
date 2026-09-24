@@ -56,15 +56,15 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-stats-extended-backend-yg4c.vercel.app/api?username=AresGn&theme=radical&show_icons=true&include_all_commits=true&show=prs_authored,prs_merged,prs_merged_percentage" alt="GitHub stats: commits and pull requests" />
+  <img src="https://github-stats-extended-backend-yg4c.vercel.app/api?username=AresGn&theme=light_github&show_icons=true&include_all_commits=true&show=prs_authored,prs_merged&hide_rank=true&rank_icon=github" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended-backend-yg4c.vercel.app/api/top-langs/?username=AresGn&layout=compact&theme=radical&hide=HTML" alt="Top languages, excluding HTML" />
+  <img src="https://github-stats-extended-backend-yg4c.vercel.app/api/top-langs/?username=AresGn&layout=compact&theme=light_github&hide=HTML" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AresGn&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=AresGn&theme=default&hide_border=true" alt="GitHub streak" />
 </p>
 
 ### 🌐 Languages
