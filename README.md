@@ -56,11 +56,11 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AresGn&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AresGn&theme=radical&show_icons=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AresGn&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AresGn&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 <p align="center">
